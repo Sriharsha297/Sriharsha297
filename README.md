@@ -10,7 +10,7 @@ My programming language experience includes Python, Java, C++, C#, JavaScript, a
 
 In my free time, I enjoy spending time with my family, friends, travelling.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sriharsha297" alt="GitHub Stats for Sriharsha Kathuroju" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=Sriharsha297&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Sriharsha Kathuroju" width="700">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Sriharsha297&color=blue&label=Profile+Views)
 
