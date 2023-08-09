@@ -4,7 +4,7 @@ Hi there 👋
 
 My name is Sriharsha Kathuroju. Let's connect!
 
-I am a Back end software developer at Amazon working for AWS Codecatalyst.
+I am a .Net developer at Nike.
 
 My programming language experience includes Python, Java, C++, C#, JavaScript, and Kotlin. Outside of programming, I have experience with ML, REST API's, CI/CD, Git, Agile Methodologies, SQL, and JSON.
 
